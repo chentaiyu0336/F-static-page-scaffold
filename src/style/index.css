@@ -37,6 +37,12 @@ header p {
   font-size: small;
 }
 
+.downIcon {
+  display: inline-block;
+  border: 5px solid transparent;
+  border-top-color: white;
+}
+
 * {
   box-sizing: border-box;
 }
